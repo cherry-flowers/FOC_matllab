@@ -1,0 +1,4 @@
+LIBRARY ..\..\..\..\motor_simulink_acc.mexw64
+EXPORTS
+    mexFunction
+    mexfilerequiredapiversion
